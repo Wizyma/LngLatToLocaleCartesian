@@ -1,0 +1,15 @@
+{
+  "name": "converter-locale-cartesian",
+  "version": "1.0.0",
+  "description": "Convert LngLat to locale cartesian",
+  "main": "dist/index.js",
+  "repository": "https://github.com/Wizyma/LngLatToLocaleCartesian.git",
+  "author": "André Gomes <andre-gomes@live.fr>",
+  "license": "MIT",
+  "devDependencies": {
+    "tsdx": "0.14.1"
+  },
+  "scripts": {
+    "build": "tsdx build"
+  }
+}
