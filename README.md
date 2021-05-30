@@ -1,3 +1,5 @@
+![](https://img.shields.io/npm/v/converter-locale-cartesian?style=for-the-badge)
+
 # LngLatToLocaleCartesian
 Convert coordinates to locale cartesian to use with webgl or others. This assume that you are using coordinates to draw polygons on a map (building or something else) and that you wish to use those points somewhere else (Three.js / D3, etc.)
 
