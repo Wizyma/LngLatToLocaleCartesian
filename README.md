@@ -7,10 +7,10 @@ Convert coordinates to locale cartesian to use with webgl or others. This assume
 
 ```sh
 # yarn
-$ yarn add coordinates-converter
+$ yarn add converter-locale-cartesian
 
 # npm
-$ npm i coordinates-converter
+$ npm i converter-locale-cartesian
 ```
 
 ## Usage
